@@ -17,7 +17,7 @@ function preload ()
         pinkimg=loadImage("images/pinkball.png");
         purpleimg=loadImage("images/purpleball.png");
         yellowimg=loadImage("images/yellowball.png");
-        gameOverImage=loadImage("images/gameOver.png");
+        gameOverImage=loadImage("images/GameOver.png");
         dangerLineImg=loadImage("images/dangerLine.jpg")
 }
 
